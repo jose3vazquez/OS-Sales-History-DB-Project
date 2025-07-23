@@ -95,13 +95,17 @@ sql
 ### 🛠️ Tools Used
 
 Microsoft Azure Portal,
+
 Azure SQL Database,
+
 Azure Data Studio,
+
 GitHub for version control and portfolio
 
 ### 📷 Project Proof
 
 Each query result is backed with a screenshot for validation.
+
 Azure portal screenshots show the database and server setup.
 
 ### ✅ Skills Demonstrated
