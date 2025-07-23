@@ -33,8 +33,7 @@ Columns:
 
 ### 1. Top 1000 Rows Preview
 **Purpose:** Retrieve a quick look at the raw data to verify structure and completeness.
-```
-sql
+```sql
    SELECT TOP (1000) *
    FROM dbo.os_sales_hist;
 ```
@@ -42,8 +41,7 @@ sql
 
 ### 2. Top Performing OS by Total Revenue
 **Question:** Which operating systems generated the highest total revenue?
- ```
- sql
+ ```sql
     SELECT TOP 3 
         product_name, 
         SUM(total_revenue) AS total_revenue_generated
@@ -56,8 +54,7 @@ sql
 
 ### 3. Year-over-Year Sales Trend
 **Question:** What are the total units sold each year?
-```
-sql
+```sql
    SELECT 
        YEAR(sales_date) AS year,
        SUM(units_sold) AS total_units_sold
@@ -69,8 +66,7 @@ sql
 
 ### 4. Regional Performance Breakdown
 **Question:** What is the total revenue by sales region?
-```
-sql
+```sql
    SELECT 
      region,
      SUM(total_revenue) AS total_revenue
@@ -82,8 +78,7 @@ sql
 
 ### 5. Channel Profitability Comparison
 **Question:** Which distribution channel generated the most revenue?
-```
-sql
+```sql
    SELECT 
        channel,
        SUM(total_revenue) AS revenue_by_channel
