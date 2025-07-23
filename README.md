@@ -39,7 +39,8 @@ FROM dbo.os_sales_hist;
 ### 2. Top Performing OS by Total Revenue
 **Question:** Which operating systems generated the highest total revenue?
 
-<pre> ```sql 
+<pre> ```
+    sql 
     SELECT TOP 3 product_name, 
     SUM(total_revenue) AS total_revenue_generated
     FROM dbo.os_sales_hist
