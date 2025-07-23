@@ -94,9 +94,9 @@ sql
 
 ### 🛠️ Tools Used
 
-Microsoft Azure Portal
-Azure SQL Database
-Azure Data Studio
+Microsoft Azure Portal,
+Azure SQL Database,
+Azure Data Studio,
 GitHub for version control and portfolio
 
 ### 📷 Project Proof
@@ -106,10 +106,13 @@ Azure portal screenshots show the database and server setup.
 
 ### ✅ Skills Demonstrated
 
-SQL Query Writing (Aggregation, Grouping, Ordering)
-Real-world data analysis
-Azure SQL Database interaction
-Azure Data Studio navigation
+SQL Query Writing (Aggregation, Grouping, Ordering),
+
+Real-world data analysis,
+
+Azure SQL Database interaction,
+
+Azure Data Studio navigation,
 
 
 
