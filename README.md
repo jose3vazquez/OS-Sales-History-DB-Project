@@ -1,5 +1,5 @@
 # os-sales-history-db-project
-OBT (One Big Table) and 5 queries which are realworld and produce useful insights to showcase SQL Skills
+OBT (One Big Table) and 5 queries which are realworld and produce useful insights to showcase SQL Skills.
 
 # OS Sales History — SQL Insights Project
 
@@ -106,9 +106,9 @@ GitHub for version control and portfolio
 
 ### 📷 Project Proof
 
-Each query result is backed with a screenshot for validation
+Each query result is backed with a screenshot for validation.
 
-Azure portal screenshots show the database and server setup
+Azure portal screenshots show the database and server setup.
 
 ### ✅ Skills Demonstrated
 
