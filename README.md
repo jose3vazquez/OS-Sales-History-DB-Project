@@ -38,10 +38,10 @@ FROM dbo.os_sales_hist;
 
 ### 2. Top Performing OS by Total Revenue
 **Question:** Which operating systems generated the highest total revenue?
-
-sql 
-    SELECT TOP 3 product_name, 
-    SUM(total_revenue) AS total_revenue_generated
+ 
+    SELECT TOP 3 
+        product_name, 
+        SUM(total_revenue) AS total_revenue_generated
     FROM dbo.os_sales_hist
     GROUP BY product_name
     ORDER BY total_revenue_generated DESC;
@@ -62,12 +62,14 @@ ORDER BY year ASC;
 ### 4. Regional Performance Breakdown
 **Question:** What is the total revenue by sales region?
 
+'''
 SELECT 
     region,
     SUM(total_revenue) AS total_revenue
 FROM dbo.os_sales_hist
 GROUP BY region
 ORDER BY total_revenue DESC;
+'''
 ✅ See screenshot: query4_region_revenue.jpg
 
 ### 5. Channel Profitability Comparison
@@ -100,10 +102,6 @@ SQL Query Writing (Aggregation, Grouping, Ordering)
 Real-world data analysis
 Azure SQL Database interaction
 Azure Data Studio navigation
-
-
-That will render beautifully with syntax highlighting in GitHub like this:
-
 
 
 
