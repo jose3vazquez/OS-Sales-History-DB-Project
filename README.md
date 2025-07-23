@@ -61,15 +61,14 @@ ORDER BY year ASC;
 
 ### 4. Regional Performance Breakdown
 **Question:** What is the total revenue by sales region?
-
-'''
+```
 SELECT 
     region,
     SUM(total_revenue) AS total_revenue
 FROM dbo.os_sales_hist
 GROUP BY region
 ORDER BY total_revenue DESC;
-'''
+```
 ✅ See screenshot: query4_region_revenue.jpg
 
 ### 5. Channel Profitability Comparison
