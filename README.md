@@ -33,8 +33,8 @@ Columns:
 **Purpose:** Retrieve a quick look at the raw data to verify structure and completeness.
 ```
 sql
-SELECT TOP (1000) *
-FROM dbo.os_sales_hist;
+   SELECT TOP (1000) *
+   FROM dbo.os_sales_hist;
 ```
 ✅ See screenshot: query1_os_sales_hist_select_all.jpg
 
@@ -56,12 +56,12 @@ FROM dbo.os_sales_hist;
 **Question:** What are the total units sold each year?
 ```
 sql
-SELECT 
-    YEAR(sales_date) AS year,
-    SUM(units_sold) AS total_units_sold
-FROM dbo.os_sales_hist
-GROUP BY YEAR(sales_date)
-ORDER BY year ASC;
+   SELECT 
+       YEAR(sales_date) AS year,
+       SUM(units_sold) AS total_units_sold
+   FROM dbo.os_sales_hist
+   GROUP BY YEAR(sales_date)
+   ORDER BY year ASC;
 ```
 ✅ See screenshot: query3_yoy_units_sold.jpg
 
