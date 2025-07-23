@@ -3,7 +3,9 @@ OBT (One Big Table) and 5 queries which are realworld and produce useful insight
 
 # OS Sales History — SQL Insights Project
 
-This project analyzes historical sales data of various Microsoft Operating Systems across different regions, years, and sales channels. The dataset resides in an Azure SQL Database and is queried using SQL Server Management Studio / Azure Data Studio.
+This project analyzes historical sales data of various Microsoft Operating Systems across different regions, years, and sales channels. 
+
+The dataset resides in an Azure SQL Database and is queried using SQL Server Management Studio / Azure Data Studio.
 
 ## Azure Resource Dashboard – CloudNova Environment
 
@@ -94,29 +96,29 @@ sql
 
 ### 🛠️ Tools Used
 
-Microsoft Azure Portal,
+Microsoft Azure Portal
 
-Azure SQL Database,
+Azure SQL Database
 
-Azure Data Studio,
+Azure Data Studio
 
 GitHub for version control and portfolio
 
 ### 📷 Project Proof
 
-Each query result is backed with a screenshot for validation.
+Each query result is backed with a screenshot for validation
 
-Azure portal screenshots show the database and server setup.
+Azure portal screenshots show the database and server setup
 
 ### ✅ Skills Demonstrated
 
-SQL Query Writing (Aggregation, Grouping, Ordering),
+SQL Query Writing (Aggregation, Grouping, Ordering)
 
-Real-world data analysis,
+Real-world data analysis
 
-Azure SQL Database interaction,
+Azure SQL Database interaction
 
-Azure Data Studio navigation,
+Azure Data Studio navigatio,
 
 
 
