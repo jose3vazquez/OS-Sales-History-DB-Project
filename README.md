@@ -118,7 +118,7 @@ Real-world data analysis
 
 Azure SQL Database interaction
 
-Azure Data Studio navigatio,
+Azure Data Studio navigation
 
 
 
