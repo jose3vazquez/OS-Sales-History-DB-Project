@@ -31,9 +31,11 @@ Columns:
 
 ### 1. Top 1000 Rows Preview
 **Purpose:** Retrieve a quick look at the raw data to verify structure and completeness.
-
+```
+sql
 SELECT TOP (1000) *
 FROM dbo.os_sales_hist;
+```
 ✅ See screenshot: query1_os_sales_hist_select_all.jpg
 
 ### 2. Top Performing OS by Total Revenue
@@ -52,36 +54,41 @@ FROM dbo.os_sales_hist;
 
 ### 3. Year-over-Year Sales Trend
 **Question:** What are the total units sold each year?
-
+```
+sql
 SELECT 
     YEAR(sales_date) AS year,
     SUM(units_sold) AS total_units_sold
 FROM dbo.os_sales_hist
 GROUP BY YEAR(sales_date)
 ORDER BY year ASC;
+```
 ✅ See screenshot: query3_yoy_units_sold.jpg
 
 ### 4. Regional Performance Breakdown
 **Question:** What is the total revenue by sales region?
 ```
-SELECT 
-    region,
-    SUM(total_revenue) AS total_revenue
-FROM dbo.os_sales_hist
-GROUP BY region
-ORDER BY total_revenue DESC;
+sql
+   SELECT 
+     region,
+     SUM(total_revenue) AS total_revenue
+   FROM dbo.os_sales_hist
+   GROUP BY region
+   ORDER BY total_revenue DESC;
 ```
 ✅ See screenshot: query4_region_revenue.jpg
 
 ### 5. Channel Profitability Comparison
 **Question:** Which distribution channel generated the most revenue?
-
-SELECT 
-    channel,
-    SUM(total_revenue) AS revenue_by_channel
-FROM dbo.os_sales_hist
-GROUP BY channel
-ORDER BY revenue_by_channel DESC;
+```
+sql
+   SELECT 
+       channel,
+       SUM(total_revenue) AS revenue_by_channel
+   FROM dbo.os_sales_hist
+   GROUP BY channel
+   ORDER BY revenue_by_channel DESC;
+   ```
 ✅ See screenshot: query5_channel_profitability.jpg
 
 
