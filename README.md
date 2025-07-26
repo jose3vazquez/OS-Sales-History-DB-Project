@@ -50,7 +50,7 @@ Columns:
     ORDER BY total_revenue_generated DESC;
 ```
 
-✅ See screenshot: query2_top_os_revenue.jpg
+✅ See screenshot: [query2_top_os_revenue.jpg](https://raw.githubusercontent.com/jose3vazquez/OS-Sales-History-DB-Project/main/IMAGES/query2_top_os_revenue.jpg)
 
 ### 3. Year-over-Year Sales Trend
 **Question:** What are the total units sold each year?
