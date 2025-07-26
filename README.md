@@ -74,7 +74,7 @@ Columns:
    GROUP BY region
    ORDER BY total_revenue DESC;
 ```
-✅ See screenshot: query4_region_revenue.jpg
+✅ See screenshot: [query4_region_revenue.jpg](https://raw.githubusercontent.com/jose3vazquez/OS-Sales-History-DB-Project/main/IMAGES/query4_region_revenue.jpg)
 
 ### 5. Channel Profitability Comparison
 **Question:** Which distribution channel generated the most revenue?
@@ -86,7 +86,7 @@ Columns:
    GROUP BY channel
    ORDER BY revenue_by_channel DESC;
    ```
-✅ See screenshot: query5_channel_profitability.jpg
+✅ See screenshot: [query5_channel_profitability.jpg](https://raw.githubusercontent.com/jose3vazquez/OS-Sales-History-DB-Project/main/IMAGES/query5_channel_profitability.jpg)
 
 
 ### 🛠️ Tools Used
