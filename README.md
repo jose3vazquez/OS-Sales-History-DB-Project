@@ -37,8 +37,7 @@ Columns:
    SELECT TOP (1000) *
    FROM dbo.os_sales_hist;
 ```
-✅ See screenshot: https://github.com/jose3vazquez/OS-Sales-History-DB-Project/blob/main/IMAGES/query1_os_sales_hist_select_all.jpg
-query1_os_sales_hist_select_all.jpg
+✅ See screenshot: [query1_os_sales_hist_select_all.jpg](https://raw.githubusercontent.com/jose3vazquez/OS-Sales-History-DB-Project/main/IMAGES/query1_os_sales_hist_select_all.jpg)
 
 ### 2. Top Performing OS by Total Revenue
 **Question:** Which operating systems generated the highest total revenue?
