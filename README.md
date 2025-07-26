@@ -62,7 +62,7 @@ Columns:
    GROUP BY YEAR(sales_date)
    ORDER BY year ASC;
 ```
-✅ See screenshot: query3_yoy_units_sold.jpg
+✅ See screenshot: [query3_yoy_units_sold.jpg](https://raw.githubusercontent.com/jose3vazquez/OS-Sales-History-DB-Project/main/IMAGES/query3_yoy_units_sold.jpg)
 
 ### 4. Regional Performance Breakdown
 **Question:** What is the total revenue by sales region?
