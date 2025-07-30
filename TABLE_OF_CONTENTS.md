@@ -3,7 +3,7 @@
 1. [Project Overview](https://github.com/jose3vazquez/OS-Sales-History-DB-Project?tab=readme-ov-file#os-sales-history-db-project)
 2. [Azure Resource Dashboard – CloudNova Environment](https://github.com/jose3vazquez/OS-Sales-History-DB-Project?tab=readme-ov-file#azure-resource-dashboard--cloudnova-environment)
 3. [Dataset Overview](https://github.com/jose3vazquez/OS-Sales-History-DB-Project?tab=readme-ov-file#-dataset-overview)
-    - [Table Structure: dbo.os_sales_hist]
+    - [Table Structure: dbo.os_sales_hist](https://github.com/jose3vazquez/OS-Sales-History-DB-Project/blob/main/data/os_sales_hist.csv)
     - [Column Descriptions](https://github.com/jose3vazquez/OS-Sales-History-DB-Project/blob/main/README.md#columns)
 4. [SQL Queries and Insights](https://github.com/jose3vazquez/OS-Sales-History-DB-Project/blob/main/README.md#-sql-queries-and-insights)
     1. [Top 1000 Rows Preview](https://github.com/jose3vazquez/OS-Sales-History-DB-Project/blob/main/README.md#1-top-1000-rows-preview)
