@@ -15,8 +15,8 @@ This image validates the existence and deployment of the clouddnova SQL Server a
 
 ## 📊 Dataset Overview
 
-Table: `dbo.os_sales_hist`  
-Columns:
+# Table: `dbo.os_sales_hist`  
+# Columns:
 - `sale_id` (int)
 - `sales_date` (date)
 - `category` (varchar)
