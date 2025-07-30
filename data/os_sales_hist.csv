@@ -1,0 +1,101 @@
+sale_id,sales_date,category,product_name,release_year,units_sold,unit_price,total_revenue,region,channel
+1,2011-01-18,Desktop OS,Windows Vista,2007,854,71.36,60941.44,Asia,OEM
+2,2021-12-06,Desktop OS,Windows 11,2021,2082,108.89,226708.98,North America,Enterprise
+3,2019-03-27,Desktop OS,Windows 8.1,2013,4621,187.62,866992.02,Middle East & Africa,OEM
+4,1999-06-02,Desktop OS,Windows 98,1998,3230,181.05,584791.5,Asia,Online
+5,2007-10-22,Desktop OS,Windows ME,2000,2015,181.74,366206.1,Middle East & Africa,Online
+6,2001-04-01,Desktop OS,Windows 98,1998,3326,151.56,504088.56,Europe,Retail
+7,2013-06-20,Desktop OS,Windows 7,2009,1588,104.05,165231.4,Middle East & Africa,OEM
+8,2024-04-25,Desktop OS,Windows 11,2021,2439,178.85,436215.15,Middle East & Africa,OEM
+9,2018-03-01,Desktop OS,Windows 3.0,1990,4407,83.39,367499.73,Asia,Online
+10,2020-12-25,Desktop OS,Windows 8.1,2013,3920,167.71,657423.2,North America,OEM
+11,2016-06-19,Desktop OS,Windows 8,2012,2012,149.5,300794.0,North America,OEM
+12,2022-11-22,Desktop OS,Windows 8.1,2013,3815,107.3,409349.5,Europe,Enterprise
+13,2016-09-26,Desktop OS,Windows 8.1,2013,1679,143.89,241591.31,Middle East & Africa,Enterprise
+14,2022-09-30,Desktop OS,Windows Vista,2007,4333,113.2,490495.6,Europe,Online
+15,2024-06-20,Desktop OS,Windows 98,1998,1489,177.87,264848.43,Europe,Retail
+16,2001-03-01,Desktop OS,Windows 98,1998,3570,62.12,221768.4,North America,Retail
+17,2024-12-26,Desktop OS,Windows 8.1,2013,2951,104.66,308851.66,Asia,Enterprise
+18,2023-05-20,Desktop OS,Windows 11,2021,362,67.78,24536.36,Latin America,Enterprise
+19,2014-11-30,Desktop OS,Windows 8.1,2013,727,90.99,66149.73,North America,Enterprise
+20,1998-09-09,Desktop OS,Windows 98,1998,3085,166.9,514886.5,Middle East & Africa,Retail
+21,2023-12-05,Desktop OS,Windows 3.0,1990,444,156.56,69512.64,Latin America,OEM
+22,2003-10-11,Desktop OS,Windows 3.1,1992,2788,52.45,146230.6,Europe,Enterprise
+23,2014-11-13,Desktop OS,Windows XP,2001,1384,109.09,150980.56,Latin America,Online
+24,2014-07-16,Desktop OS,Windows 8.1,2013,559,197.7,110514.3,Asia,OEM
+25,2012-04-30,Desktop OS,Windows ME,2000,3713,73.97,274650.61,Europe,OEM
+26,2023-05-23,Desktop OS,Windows 7,2009,3791,176.71,669907.61,Middle East & Africa,Online
+27,2010-03-24,Desktop OS,Windows 3.0,1990,1737,154.43,268244.91,Middle East & Africa,Online
+28,2008-11-25,Desktop OS,Windows 98,1998,3803,153.4,583380.2,Europe,Online
+29,2015-01-22,Desktop OS,Windows 3.1,1992,2693,153.35,412971.55,Latin America,Retail
+30,1999-11-24,Desktop OS,Windows 3.0,1990,1536,145.48,223457.28,Middle East & Africa,Enterprise
+31,2007-10-15,Desktop OS,Windows 98,1998,4625,133.29,616466.25,Middle East & Africa,OEM
+32,2016-06-30,Desktop OS,Windows 95,1995,2089,126.11,263443.79,North America,Enterprise
+33,2020-05-06,Desktop OS,Windows 10,2015,2214,83.16,184116.24,Europe,Retail
+34,2023-10-27,Desktop OS,Windows 8,2012,2153,70.16,151054.48,North America,Retail
+35,2022-06-30,Desktop OS,Windows 11,2021,951,171.86,163438.86,Latin America,Retail
+36,1999-08-25,Desktop OS,Windows 98,1998,192,123.53,23717.76,Asia,OEM
+37,2025-01-22,Desktop OS,Windows 11,2021,1964,148.48,291614.72,Asia,Online
+38,2019-03-24,Desktop OS,Windows 7,2009,1933,61.05,118009.65,Latin America,Retail
+39,2017-02-23,Desktop OS,Windows ME,2000,587,133.39,78299.93,Latin America,Online
+40,2019-02-22,Desktop OS,Windows 8,2012,554,65.96,36541.84,North America,Online
+41,2018-09-11,Desktop OS,Windows Vista,2007,1038,137.55,142776.9,Europe,OEM
+42,2013-09-10,Desktop OS,Windows 3.0,1990,2174,109.73,238553.02,Europe,OEM
+43,2015-04-02,Desktop OS,Windows 8,2012,3088,52.55,162274.4,Europe,Online
+44,2024-12-03,Desktop OS,Windows 8.1,2013,3172,194.32,616383.04,North America,Online
+45,2014-04-14,Desktop OS,Windows 8,2012,61,123.46,7531.06,Europe,OEM
+46,2021-03-08,Desktop OS,Windows 8,2012,3449,131.2,452508.8,Middle East & Africa,Retail
+47,2002-02-23,Desktop OS,Windows 95,1995,41,59.74,2449.34,Middle East & Africa,Online
+48,2018-04-04,Desktop OS,Windows 7,2009,1162,132.79,154301.98,Europe,Retail
+49,2022-11-09,Desktop OS,Windows Vista,2007,3541,84.15,297975.15,Europe,OEM
+50,2009-09-06,Desktop OS,Windows 7,2009,1782,152.03,270917.46,Europe,OEM
+51,2022-01-15,Desktop OS,Windows 10,2015,1533,120.85,185263.05,North America,OEM
+52,2011-09-05,Desktop OS,Windows 7,2009,4373,193.54,846350.42,Middle East & Africa,Retail
+53,2008-10-28,Desktop OS,Windows 95,1995,2730,78.55,214441.5,North America,Enterprise
+54,2005-02-25,Desktop OS,Windows 3.0,1990,1266,162.78,206079.48,Middle East & Africa,Online
+55,2024-01-30,Desktop OS,Windows 8,2012,2383,131.31,312911.73,Asia,OEM
+56,2014-10-13,Desktop OS,Windows 3.0,1990,1353,51.78,70058.34,Europe,Online
+57,2023-06-13,Desktop OS,Windows 7,2009,1468,63.92,93834.56,North America,Online
+58,2020-05-02,Desktop OS,Windows Vista,2007,1688,129.35,218342.8,Middle East & Africa,Online
+59,2023-06-15,Desktop OS,Windows 7,2009,3258,81.91,266862.78,Middle East & Africa,Enterprise
+60,2021-09-28,Desktop OS,Windows 11,2021,469,128.54,60285.26,Middle East & Africa,OEM
+61,2003-01-04,Desktop OS,Windows XP,2001,2304,165.53,381381.12,Latin America,Retail
+62,2016-04-19,Desktop OS,Windows XP,2001,220,124.79,27453.8,Middle East & Africa,Enterprise
+63,2024-04-15,Desktop OS,Windows 3.0,1990,4121,152.82,629771.22,Middle East & Africa,Enterprise
+64,2017-10-06,Desktop OS,Windows 7,2009,2673,62.16,166153.68,North America,Enterprise
+65,2024-01-16,Desktop OS,Windows 3.1,1992,221,192.15,42465.15,Asia,Online
+66,2025-05-05,Desktop OS,Windows 8,2012,1924,66.89,128696.36,Europe,Online
+67,2008-08-29,Desktop OS,Windows 3.0,1990,2638,90.81,239556.78,Latin America,Retail
+68,1991-07-06,Desktop OS,Windows 3.0,1990,3459,123.62,427601.58,Latin America,OEM
+69,2020-11-23,Desktop OS,Windows Vista,2007,4307,134.57,579592.99,Asia,Enterprise
+70,2010-03-21,Desktop OS,Windows 98,1998,2740,153.29,420014.6,North America,Online
+71,2022-12-02,Desktop OS,Windows 11,2021,2161,110.06,237839.66,Asia,Online
+72,2019-01-29,Desktop OS,Windows 8.1,2013,987,150.99,149027.13,Latin America,Online
+73,2009-12-23,Desktop OS,Windows Vista,2007,3893,76.58,298125.94,North America,Retail
+74,2021-10-02,Desktop OS,Windows 11,2021,3057,140.41,429233.37,North America,Online
+75,2025-01-05,Desktop OS,Windows XP,2001,3121,124.82,389563.22,Latin America,Enterprise
+76,2009-09-14,Desktop OS,Windows 95,1995,1334,146.18,195004.12,Latin America,OEM
+77,2023-09-11,Desktop OS,Windows 11,2021,1617,56.32,91069.44,North America,Online
+78,2002-01-22,Desktop OS,Windows XP,2001,2928,101.18,296255.04,North America,Enterprise
+79,2021-06-03,Desktop OS,Windows 11,2021,2896,170.69,494318.24,Latin America,Enterprise
+80,2017-11-01,Desktop OS,Windows 3.1,1992,3067,185.25,568161.75,Europe,Enterprise
+81,2023-10-29,Desktop OS,Windows 95,1995,3417,106.46,363773.82,Latin America,Retail
+82,2016-09-22,Desktop OS,Windows 7,2009,929,183.5,170471.5,Latin America,Enterprise
+83,2023-12-30,Desktop OS,Windows 95,1995,2793,173.19,483719.67,Latin America,Retail
+84,2021-02-16,Desktop OS,Windows Vista,2007,1587,107.66,170856.42,Europe,Enterprise
+85,2005-10-11,Desktop OS,Windows 98,1998,3901,102.23,398799.23,Latin America,Enterprise
+86,2020-02-15,Desktop OS,Windows 8,2012,2255,124.25,280183.75,Middle East & Africa,Retail
+87,2009-04-03,Desktop OS,Windows 3.0,1990,357,182.01,64977.57,Asia,Retail
+88,2007-01-17,Desktop OS,Windows Vista,2007,421,89.65,37742.65,Asia,Retail
+89,2010-07-12,Desktop OS,Windows 98,1998,3633,55.25,200723.25,Middle East & Africa,Online
+90,2016-11-05,Desktop OS,Windows XP,2001,1607,188.84,303465.88,Middle East & Africa,Enterprise
+91,2013-07-27,Desktop OS,Windows 8.1,2013,1041,113.55,118205.55,North America,Retail
+92,2019-06-12,Desktop OS,Windows 8,2012,2658,163.4,434317.2,Latin America,Enterprise
+93,2024-12-27,Desktop OS,Windows XP,2001,1544,77.25,119274.0,Asia,Retail
+94,2017-11-14,Desktop OS,Windows 3.0,1990,2960,110.58,327316.8,North America,Retail
+95,2018-08-12,Desktop OS,Windows Vista,2007,3653,174.98,639201.94,North America,Enterprise
+96,2016-06-02,Desktop OS,Windows 95,1995,1461,193.95,283360.95,Asia,OEM
+97,2018-09-09,Desktop OS,Windows 8.1,2013,4614,92.68,427625.52,Europe,Retail
+98,2023-09-20,Desktop OS,Windows 11,2021,3863,109.73,423886.99,Latin America,OEM
+99,2010-09-06,Desktop OS,Windows 3.1,1992,36,72.56,2612.16,Asia,Online
+100,2021-08-16,Desktop OS,Windows ME,2000,1873,146.9,275143.7,Asia,Retail
