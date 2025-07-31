@@ -1,4 +1,4 @@
-[![SQL Project](sqlthumbnail.jpg)](./)
+[![SQL Project](sqlthumbnail.png)](./)
 
 # [os-sales-history-db-project](https://github.com/jose3vazquez/OS-Sales-History-DB-Project/blob/main/TABLE_OF_CONTENTS.md)
 
