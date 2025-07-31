@@ -116,5 +116,7 @@ Azure SQL Database interaction
 
 Azure Data Studio navigation
 
+### The project is not licensed for reuse 
+
 
 
