@@ -1,3 +1,5 @@
+[![SQL Project](sqlthumbnail.jpg)](./)
+
 # [os-sales-history-db-project](https://github.com/jose3vazquez/OS-Sales-History-DB-Project/blob/main/TABLE_OF_CONTENTS.md)
 
 OBT (One Big Table) and 5 queries which are real-world and produce useful insights to showcase SQL Skills.
