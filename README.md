@@ -1,4 +1,5 @@
-# os-sales-history-db-project
+# [os-sales-history-db-project](https://github.com/jose3vazquez/OS-Sales-History-DB-Project/blob/main/TABLE_OF_CONTENTS.md)
+
 OBT (One Big Table) and 5 queries which are real-world and produce useful insights to showcase SQL Skills.
 
 # OS Sales History — SQL Insights Project
@@ -7,9 +8,7 @@ This project analyzes historical sales data of various Microsoft Operating Syste
 
 The dataset resides in an Azure SQL Database and is queried using SQL Server Management Studio / Azure Data Studio.
 
-# Table of Contents [TOB](https://github.com/jose3vazquez/OS-Sales-History-DB-Project/blob/main/TABLE_OF_CONTENTS.md)
-
-## Azure Resource Dashboard – CloudNova Environment
+# Azure Resource Dashboard – CloudNova Environment
 
 This image validates the existence and deployment of the clouddnova SQL Server and the win_sales SQL Database within the Azure portal.
 ✅ See screenshot: CloudNova Server.jpg
